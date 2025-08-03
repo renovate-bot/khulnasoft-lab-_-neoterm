@@ -79,7 +79,7 @@ tui-textarea = "0.4"
 
 # GPU acceleration (optional)
 wgpu = "26.0"
-cosmic-text = "0.12"
+cosmic-text = "0.14"
 
 # WebSocket support for collaboration
 tokio-tungstenite = "0.20"
