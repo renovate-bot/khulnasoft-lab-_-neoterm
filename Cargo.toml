@@ -10,7 +10,7 @@ iced_graphics = "0.13"
 iced_winit = "0.13"
 iced_widget = "0.13"
 iced_futures = "0.13"
-crossterm = "0.27"
+crossterm = "0.29"
 ratatui = "0.26"
 
 # Async runtime
