@@ -105,7 +105,7 @@ palette = "0.7"
 rfd = "0.12"
 
 # Git repository support
-git2 = "0.18"
+git2 = "0.20"
 
 # Virtual File System (FUSE)
 # tokio-fuse = "0.1" # For async FUSE operations
