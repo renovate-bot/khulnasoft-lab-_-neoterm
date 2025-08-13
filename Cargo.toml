@@ -96,7 +96,7 @@ image = "0.24"
 arboard = "3.0"
 
 # Performance profiling
-pprof = { version = "0.12", features = ["flamegraph"] }
+pprof = { version = "0.14", features = ["flamegraph"] }
 
 # Color manipulation
 palette = "0.7"
