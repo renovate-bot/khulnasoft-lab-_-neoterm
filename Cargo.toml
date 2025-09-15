@@ -29,7 +29,7 @@ toml = "0.8"
 serde_yaml = "0.9" # For YAML config/themes
 
 # Configuration management
-config = "0.13"
+config = "0.15"
 directories = "5.0" # For config paths
 
 # Error handling
