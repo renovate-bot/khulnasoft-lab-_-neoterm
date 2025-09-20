@@ -87,7 +87,7 @@ tokio-tungstenite = "0.20"
 # WASM runtime for plugins
 wasmtime = "14.0"
 wasmer = "4.2" # Added for Agent Mode Eval
-deno_core = "0.260" # Added for Agent Mode Eval
+deno_core = "0.360" # Added for Agent Mode Eval
 
 # Image processing
 image = "0.24"
